@@ -377,10 +377,10 @@
     </section>
     <section class="logos ">
         <div class="logos_container ">
-            <a href="# " class="partners_logos "><img src="img/logo_01.png " alt="logo1 " class="logo " width="210 " height="127 " /></a>
-            <a href="# " class="partners_logos "><img src="img/logo_02.png " alt="logo2 " class="logo " width="210 " height="210 " /></a>
-            <a href="# " class="partners_logos "><img src="img/logo_03.png " alt="logo3 " class="logo " width="210 " height="130 " /></a>
-            <a href="# " class="partners_logos "><img src="img/logo_04.png " alt="logo4 " class="logo " width="210 " height="164 " /></a>
+            <a href="# " class="partners_logos "><img src="./img/logo_01.png " alt="logo1 " class="logo " width="210 " height="127 " /></a>
+            <a href="# " class="partners_logos "><img src="./img/logo_02.png " alt="logo2 " class="logo " width="210 " height="210 " /></a>
+            <a href="# " class="partners_logos "><img src="./img/logo_03.png " alt="logo3 " class="logo " width="210 " height="130 " /></a>
+            <a href="# " class="partners_logos "><img src="./img/logo_04.png " alt="logo4 " class="logo " width="210 " height="164 " /></a>
         </div>
 
     </section>
@@ -389,7 +389,7 @@
             <div class="container">
                 <div class="footer_top_block">
                     <div class="header_logo">
-                        <img src="img/waxom_logo.png" alt="logo" width="64px" height="56px" />
+                        <img src="./img/waxom_logo.png" alt="logo" width="64px" height="56px" />
                         <span>Waxom</span>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci suscipit lobortis claritatem.</p>
